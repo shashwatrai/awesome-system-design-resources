@@ -10,7 +10,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
-- [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+- [ACID Transactions](https://redis.com/glossary/acid-transactions/) [2](https://www.freecodecamp.org/news/acid-databases-explained/)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
