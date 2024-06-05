@@ -21,7 +21,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Service Discovery](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+- [Service Discovery](https://newsletter.ashishps.com/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
@@ -33,7 +33,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
-- [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+- [Load Balancing](https://newsletter.ashishps.com/p/load-balancing-algorithms-explained-with-code)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Database Index](https://newsletter.ashishps.com/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
@@ -53,7 +53,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Checksum](https://newsletter.ashishps.com/p/6e505422-4291-4b21-99aa-9584c1b0b0b7)
+- [Checksums](https://newsletter.ashishps.com/p/what-are-checksums)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
